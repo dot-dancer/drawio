@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T09:38:02.340Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DOFZr8CZ0PnMP14Z4zZw" version="20.4.0" type="github"><diagram id="VofpvPIfOXVCGSuQZQak" name="第 1 页">5Vnbbts4EP0aPsYQRV0fJVvetEiB7LbYto+MRdtCZdOV5cTp1+/worsUK4mTGNg+pOSIpMjhOTNHY0Smm+NfGd2tv/CYpcg04iMiM2SanuPBX2F4VAYLW8qwypJYmXBl+Jr8YdpoaOshidm+MTDnPM2TXdO44NstW+QNG80y/tActuRp8607umIdw9cFTbvW70mcr/WxTLeyX7NktS7ejB1fPdnQYrA+yX5NY/5QM5EIkWnGea5am+OUpcJ3hV/UvPnA03JjGdvmYyY45rXz23Vurj/Pds4/N+T+758PV3qVe5oe9IFR5KHQRSFBkYP8GQrnKLKR5yNvhiIXBSEK5vpA+WPhpXW+SaGFEQnpfqfuYZkcGbw6TOkdS0O6+LXK+GEbT3nKM3gcsyU9pDAw1FtgWc6Og2fDpccAaYxvWJ49whA9wXQcNUWjjBDt9IfqzrChbev6fRVGqnGyKteuXAkN7c1neNbsePZT8OXiHOfgpuPwxzuOdCFpOvK8Sw6HElRXjgDz7wNXjiDLpWGILVUmZyX+x8Vk2Iuar+wTAWbfQoEncO5JzIPFM1HoS8ADBULZiKAhrk6M97UxnCHflhYYMEWRL5gSmD1j2hfOtnEgwhL0Find75MFbKaGAnnV4vpnBvTYMcl/iPbEc23d/yn7Bia6PzvWBs8ea51bliVwJywrbFu4nx/1jlrLLrrVUrJXrDUSiCzuhNIWDMET/JAt2OmAlNNsxfJT9BqE9RU4yMN+A9pXltWBtt2D7MKWsZTmyX3zSH1o17u45YmEp96C7TeZZVotwihX6Fn1uN1ayLFaFPVbCylfPbFQMZAvl3vWGCMJWrrv5Zy1zspZc4izAzSU/AWvCLYGyIf0BKeQ3dBDgfP5+7erb/wX28rUNhesh0d+iPzotfQsCTXBpt0g1QlKyV6HnyXbDbNJdv/ZXH9PzpojOft0KoJjGk6Lsqb9rpQ1TzBtLGWJ2+K+fT7KAjzpY23ETszYvwWp7ZHaELwESfJitWFb4thWF1QY90kc/FYSx+kJl+cKRM8LQzri4Ea4KaVGf7i5RDlg90PgY1I9OVeqN0em+nMx3j1rGifD0hsydiijhyvCiGc0UnQQyUegqV3R7sScG75KtsHtJ7lMhAJbJv45CkiXRYDBGwHXJnlomqy2glmAR5ExQxFgEvjoD/SDTRLHYo0wY/vkD72T6wns62gLi9shsmevCmG6ZKFXR2WhoM6T4fDxlPYlpuE2gGSdBeee1ZzxdnoSd+sS/N8kywtE3WUFmAROQAz6WGIJGt1Q+tEJyDdGFCfeNwHhbnViHNMJ/Osy3ZoMUL1HcZMAVj/sWbalG6aU+g7y2wPP4vMlQezVsyCeGNar9HgjO15OcrRHJscBeL5TcrSb6HcKTf/s5Niike22Fnrj5Ij7ClPnAqyhPvGqmoxFnNdAFl8oZMfqOfyhmLVaOoy89EPQOqUM3xqz5y3M2MOKzgcVh/xAB3zPHYjwRUFVjoPvRlKWYVV+F/IPy6KsLX5w0EXWTr0H3KrKtOFUKD8xJkCeJUXhXBqnfVJhROmo/J7VNSQpKkKrpjVLOeqJRYKpnCtOo0+g9zKj+/Udp+LMvjgTOK8sE3e3VljahpdkY7FXeJsnnQwf5P0lsv58XZlrW/lfiGoV3p9S1dgjDTIXweyVwcZs1bzaou8lKhu61Q+Lanj16yyJ/gM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-09T09:38:13.079Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ECQRuTL1ZQ41lhy2JClN" version="20.4.0" type="github">
+  <diagram id="VofpvPIfOXVCGSuQZQak" name="第 1 页">
+    <mxGraphModel dx="868" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="62H6q76LHJDp6RL3vQYw-1" value="跳板前端" style="html=1;aspect=fixed;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="266" y="330" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-2" value="IAM" style="html=1;aspect=fixed;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="616" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-3" value="&lt;font color=&quot;#ff0000&quot;&gt;1&lt;/font&gt;.用户点击去IAM登录界面登录" style="endArrow=classic;html=1;rounded=0;exitX=0.875;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;" parent="1" source="62H6q76LHJDp6RL3vQYw-1" target="62H6q76LHJDp6RL3vQYw-2" edge="1">
+          <mxGeometry x="-0.0819" y="-44" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596" y="240" as="sourcePoint" />
+            <mxPoint x="646" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-4" value="&lt;font color=&quot;#ff0000&quot;&gt;2&lt;/font&gt;.IAM登录成功, 带JWT-Token返回" style="endArrow=classic;html=1;rounded=0;entryX=0.125;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.02;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;" parent="1" source="62H6q76LHJDp6RL3vQYw-2" target="62H6q76LHJDp6RL3vQYw-1" edge="1">
+          <mxGeometry x="0.0069" y="-25" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="190" as="sourcePoint" />
+            <mxPoint x="376" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-5" value="跳板后端" style="html=1;aspect=fixed;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="616" y="545" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;labelBackgroundColor=default;" parent="1" source="62H6q76LHJDp6RL3vQYw-1" target="62H6q76LHJDp6RL3vQYw-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596" y="340" as="sourcePoint" />
+            <mxPoint x="646" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-7" value="&lt;font color=&quot;#ff0000&quot;&gt;3&lt;/font&gt;.拿着JWT-Token访问跳板LoginAPI接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="62H6q76LHJDp6RL3vQYw-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.3207" y="4" relative="1" as="geometry">
+            <mxPoint x="84" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-11" value="oVirt&lt;br&gt;黑盒" style="html=1;aspect=fixed;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="906" y="330" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-12" value="&lt;font color=&quot;#ff3333&quot;&gt;4.&lt;/font&gt;返回: username, password" style="endArrow=classic;html=1;rounded=0;entryX=0.18;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;" parent="1" source="62H6q76LHJDp6RL3vQYw-5" target="62H6q76LHJDp6RL3vQYw-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="556" y="625" as="sourcePoint" />
+            <mxPoint x="606" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.009;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;" parent="1" source="62H6q76LHJDp6RL3vQYw-1" target="62H6q76LHJDp6RL3vQYw-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="446" y="390" as="sourcePoint" />
+            <mxPoint x="496" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="62H6q76LHJDp6RL3vQYw-14" value="&lt;font color=&quot;#ff0000&quot;&gt;5&lt;/font&gt;.通过username, password去调用oVirt表单登录方式的API，&lt;br&gt;登录成功后, 直接跳转到oVirt的Dashboard页面&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;测试成功&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="62H6q76LHJDp6RL3vQYw-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.183" y="-1" relative="1" as="geometry">
+            <mxPoint x="29" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
